@@ -1,2 +1,1 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+// PokerModel - Multi-variant poker game model
